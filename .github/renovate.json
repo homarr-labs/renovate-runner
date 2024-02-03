@@ -5,6 +5,7 @@
   ],
   "platform": "github",
   "repositories": [
+    "homarr-labs/renovate-runner",
     "homarr-labs/homarr"
   ],
   "branchPrefix": "renovate/",
