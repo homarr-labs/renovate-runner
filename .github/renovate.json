@@ -1,0 +1,11 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "config:recommended"
+  ],
+  "platform": "github",
+  "repositories": [
+    "homarr-labs/homarr"
+  ],
+  "branchPrefix": "renovate/"
+}
