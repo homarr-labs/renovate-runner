@@ -10,5 +10,7 @@
     "homarr-labs/documentation"
   ],
   "branchPrefix": "renovate/",
-  "dependencyDashboard": false
+  "dependencyDashboard": false,
+  "prHourlyLimit": 30,
+  "prConcurrentLimit": 30
 }
