@@ -7,5 +7,6 @@
   "repositories": [
     "homarr-labs/homarr"
   ],
-  "branchPrefix": "renovate/"
+  "branchPrefix": "renovate/",
+  "dependencyDashboard": false
 }
