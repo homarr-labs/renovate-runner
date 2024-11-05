@@ -7,7 +7,8 @@
   "repositories": [
     "homarr-labs/renovate-runner",
     "homarr-labs/homarr",
-    "homarr-labs/documentation"
+    "homarr-labs/documentation",
+    "homarr-labs/charts"
   ],
   "branchPrefix": "renovate/",
   "dependencyDashboard": false,
