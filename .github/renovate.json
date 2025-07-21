@@ -13,5 +13,11 @@
   "branchPrefix": "renovate/",
   "dependencyDashboard": false,
   "prHourlyLimit": 30,
-  "prConcurrentLimit": 30
+  "prConcurrentLimit": 30,
+  "packageRules": [
+    {
+      "matchUpdateTypes": ["minor", "patch", "major"],
+      "delay": "5 days"
+    }
+  ]
 }
