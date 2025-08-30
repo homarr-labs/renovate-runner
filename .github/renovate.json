@@ -6,6 +6,7 @@
     "homarr-labs/renovate-runner",
     "homarr-labs/homarr",
     "homarr-labs/documentation",
+    "homarr-labs/dashboard-icons",
     "homarr-labs/charts"
   ],
   "branchPrefix": "renovate/",
