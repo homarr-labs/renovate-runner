@@ -18,5 +18,8 @@
       "matchUpdateTypes": ["minor", "patch", "major"]
     }
   ],
-  "minimumReleaseAge": "5 days"
+  "minimumReleaseAge": "5 days",
+  "allowedCommands": [
+    "^cd deployments\/prebuilt-debian && pnpm install --ignore-workspace --lockfile-only$"
+  ]
 }
