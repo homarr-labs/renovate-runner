@@ -7,6 +7,9 @@ on:
 
 concurrency: renovate-runner
 
+permissions:
+  contents: read
+
 jobs:
   renovate:
     runs-on: ubuntu-latest
