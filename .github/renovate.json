@@ -15,7 +15,8 @@
   "prConcurrentLimit": 30,
   "packageRules": [
     {
-      "matchUpdateTypes": ["minor", "patch", "major"]
+      "matchUpdateTypes": ["minor", "patch", "major"],
+      "matchPackageNames": ["ghcr.io/homarr-labs/**"], "minimumReleaseAge": null
     }
   ],
   "minimumReleaseAge": "5 days",
